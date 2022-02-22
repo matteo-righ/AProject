@@ -1,0 +1,16 @@
+body { 
+    background-image: url(../assets/IMG/Background2.jpg);
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;  
+}
+
+.title {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    background: black;
+    opacity: 0.8;
+}
