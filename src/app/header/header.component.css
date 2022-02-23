@@ -3,4 +3,8 @@ h1{
     margin:10px; 
     margin-left: 100px;
     text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #d63c31;
+    font-size: 300%;
+    font-weight: bold;
 }
